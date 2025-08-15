@@ -8,7 +8,7 @@ BrugCZ is a friendly community of Ruby and Ruby on Rails enthusiasts based in Br
 
 ## Website
 
-This website is built with [Jekyll](https://jekyllrb.com/) using the [ronv/sidey](https://github.com/ronv/sidey) theme.
+This website is built with [Jekyll](https://jekyllrb.com/) using the [ronv/sidey](https://github.com/ronv/sidey) theme by [Ron V](https://github.com/ronv).
 
 ## Development
 
@@ -26,6 +26,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Jozef Zigmund** - [jzigmund](https://github.com/jzigmund)
+
+## Credits
+
+- **Theme**: [ronv/sidey](https://github.com/ronv/sidey) by [Ron V](https://github.com/ronv)
+- **Built with**: [Jekyll](https://jekyllrb.com/)
 
 ## Contributing
 
