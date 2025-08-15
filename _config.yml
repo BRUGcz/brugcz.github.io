@@ -1,0 +1,6 @@
+title: BrugCZ
+description: Homepage of Brno Ruby User Group
+remote_theme: ronv/sidey
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed

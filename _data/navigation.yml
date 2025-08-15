@@ -1,0 +1,11 @@
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Events
+    url: /events/
+  - title: Blog
+    url: /blog/
+  - title: Contact
+    url: /contact/
