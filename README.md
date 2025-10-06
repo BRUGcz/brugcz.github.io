@@ -1,10 +1,10 @@
-# BrugCZ - Brno Ruby User Group
+# BRUG.cz - Brno Ruby User Group
 
-Official website of the Brno Ruby User Group (BrugCZ).
+Official website of the Brno Ruby User Group.
 
 ## About
 
-BrugCZ is a friendly community of Ruby and Ruby on Rails enthusiasts based in Brno, Czech Republic. We host regular meetups with talks, workshops, and networking events.
+We are a friendly community of Ruby and Ruby on Rails enthusiasts based in Brno, Czech Republic. We host regular meetups with talks, workshops, and networking events.
 
 ## Website
 
@@ -26,6 +26,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Jozef Zigmund** - [jzigmund](https://github.com/jzigmund)
+**Roman Blanco** - [rblanco](https://github.com/romanblanco)
 
 ## Credits
 
