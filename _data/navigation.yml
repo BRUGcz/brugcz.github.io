@@ -9,3 +9,5 @@ links:
     url: /blog/
   - title: Contact
     url: /contact/
+  - title: RSS
+    url: /atom.xml
