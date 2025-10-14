@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BRUG.cz October Meetup - Guess Who is Back?"
-date: 2025-10-23 18:00:00 +0200
+date: 2025-10-14
 author: BRUG Team
 categories: events
 ---
