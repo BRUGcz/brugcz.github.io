@@ -4,3 +4,6 @@ remote_theme: ronv/sidey
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+collections:
+  pages:
+    output: true
