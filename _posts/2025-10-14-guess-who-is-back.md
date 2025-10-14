@@ -3,7 +3,7 @@ layout: post
 title: "BRUG.cz October Meetup - Guess Who is Back?"
 date: 2025-10-14
 author: BRUG Team
-categories: events
+categories: event
 ---
 
 Join us for our **Brno Ruby User Group** revival meetup!
