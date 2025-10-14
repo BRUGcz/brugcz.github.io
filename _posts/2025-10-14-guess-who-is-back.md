@@ -12,6 +12,7 @@ We have space for talks, lightning talks, networking, and contribution to Ruby c
 **Date:** Thursday, October 23, 2025
 **Time:** 18:00 – 21:00
 **Location:** Red Hat Lab at FI MUNI at Botanická 68A, Brno, Czech Republic
+**Facebook:** [BRUG meetup](https://www.facebook.com/events/1384844769818375)
 
 ### Topics:
 - Introduction
