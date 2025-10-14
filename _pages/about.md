@@ -1,3 +1,6 @@
+---
+permalink: /about
+---
 # Brno Ruby User Group
 
 The group was formed in the year 2010 (and revived in 2025) as a platform to
