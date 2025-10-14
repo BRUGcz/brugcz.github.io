@@ -9,15 +9,12 @@ categories: event
 Join us for our **Brno Ruby User Group** revival meetup!
 We have space for talks, lightning talks, networking, and contribution to Ruby community.
 
-**Date:** Thursday, October 23, 2025
-
-**Time:** 18:00 – 21:00
-
-**Location:** Red Hat Lab at FI MUNI at Botanická 68A, Brno, Czech Republic (5th floor, room S505)
-
-**Building plan:** [MUNI FI map](https://www.muni.cz/mapa/fakulta-informatiky?q=S505)
-
-**Facebook:** [BRUG meetup](https://www.facebook.com/events/1384844769818375)
+**Date:** Thursday, October 23, 2025 <br>
+**Time:** 18:00 – 21:00 <br>
+**Location:** Red Hat Lab at FI MUNI at Botanická 68A, Brno, Czech Republic (5th floor, room S505) <br>
+**Building plan:** [MUNI FI map](https://www.muni.cz/mapa/fakulta-informatiky?q=S505) <br>
+**Facebook:** [BRUG meetup](https://www.facebook.com/events/1384844769818375) <br>
+**LinkedIn:** [BRUG meetup](https://www.linkedin.com/events/7383925245851627520/) <br>
 
 ### Topics:
 - Introduction
