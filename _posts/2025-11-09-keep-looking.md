@@ -16,7 +16,7 @@ If you'd be interested in participating, feel free to reach out on out [Matrix c
 This time we'd be meeting at [Students club](https://maps.app.goo.gl/nhNGYuUAfW1HuuDG8) called "Kachna" at Brno University of Technology.
 According to the website, the best way to get to the club is to enter [gate at Metodějova street](https://www.google.com/maps/place/49%C2%B013'37.2%22N+16%C2%B035'42.0%22E/@49.2274345,16.5952445,67a,35y,199.17h,39.47t/data=!3m1!1e3!4m4!3m3!8m2!3d49.227!4d16.595?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D) and walk straight, until there's a door with a picture of a duck on it.
 
-Take your friends and come meet with us, the entrance is free and we're looking forward to everyone!
+Take your friends and come meet with us, entry is free and we're looking forward to everyone!
 
 **Date:** Thursday, November 20, 2025 <br>
 **Time:** 18:00 – 21:00 <br>
