@@ -22,8 +22,8 @@ Take your friends and come meet with us, entry is free and we're looking forward
 **Time:** 18:00 – 21:00 <br>
 **Location:** BUT FIT at Božetěchova 1/2, Brno, Czech Republic <br>
 **Building plan:** [VUT FIT map](https://www.fit.vut.cz/fit/room/R212/.cs) <br>
-**Facebook:** [BRUG meetup](https://www.facebook.com/events/1384844769818375) <br>
-**LinkedIn:** [BRUG meetup](https://www.linkedin.com/events/7383925245851627520/) <br>
+**Facebook:** [BRUG meetup](https://fb.me/e/3Y0uSZqVe) <br>
+**LinkedIn:** [BRUG meetup](https://www.linkedin.com/events/7396581842423869440/) <br>
 
 ### Topics:
 - Introduction
