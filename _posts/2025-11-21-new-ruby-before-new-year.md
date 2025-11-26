@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BRUG.cz November Meetup - New Ruby before the New Year!"
+title: "BRUG.cz December Meetup - New Ruby before the New Year!"
 date: 2025-11-26
 author: BRUG.cz Team
 categories: event
