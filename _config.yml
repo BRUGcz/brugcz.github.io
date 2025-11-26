@@ -1,9 +1,16 @@
 title: BRUG.cz
 description: Homepage of Brno Ruby User Group
+url: https://brugcz.github.io
+baseurl: ""
 remote_theme: ronv/sidey
+author:
+  name: BRUG.cz Team
+  email: brugcz@googlegroups.com
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+feed:
+  path: atom.xml
 collections:
   pages:
     output: true
@@ -14,3 +21,9 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

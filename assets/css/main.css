@@ -1,1 +1,21 @@
 @import "./font-awesome/all.css";
+
+header .logo {
+  display: block;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+header nav ul {
+  border-right: 1px solid #edf2f7;
+}
+
+@media screen and (max-width: 45rem) {
+  header ul {
+    border-bottom: 1px solid #edf2f7;
+    padding-bottom: 2rem;
+  }
+  nav ul {
+    border-right: 0px;
+  }
+}
