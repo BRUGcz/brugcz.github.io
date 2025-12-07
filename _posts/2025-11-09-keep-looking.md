@@ -18,12 +18,12 @@ According to the website, the best way to get to the club is to enter [gate at M
 
 Take your friends and come meet with us, entry is free and we're looking forward to everyone!
 
-**Date:** Thursday, November 20, 2025 <br>
-**Time:** 18:00 – 21:00 <br>
-**Location:** BUT FIT at Božetěchova 1/2, Brno, Czech Republic <br>
-**Building plan:** [VUT FIT map](https://www.fit.vut.cz/fit/room/R212/.cs) <br>
-**Facebook:** [BRUG meetup](https://fb.me/e/3Y0uSZqVe) <br>
-**LinkedIn:** [BRUG meetup](https://www.linkedin.com/events/7396581842423869440/) <br>
+<i class="fa-solid fa-calendar" aria-hidden="true"></i> **Date:** Thursday, November 20, 2025 <br>
+<i class="fa-solid fa-clock" aria-hidden="true"></i> **Time:** 18:00 – 21:00 <br>
+<i class="fa-solid fa-location-dot" aria-hidden="true"></i> **Location:** BUT FIT at Božetěchova 1/2, Brno, Czech Republic <br>
+<i class="fa-solid fa-map" aria-hidden="true"></i> **Building plan:** [VUT FIT map](https://www.fit.vut.cz/fit/room/R212/.cs) <br>
+<i class="fa-brands fa-facebook" aria-hidden="true"></i> **Facebook:** [BRUG meetup](https://fb.me/e/3Y0uSZqVe) <br>
+<i class="fa-brands fa-linkedin" aria-hidden="true"></i> **LinkedIn:** [BRUG meetup](https://www.linkedin.com/events/7396581842423869440/) <br>
 
 ### Topics:
 - Introduction
