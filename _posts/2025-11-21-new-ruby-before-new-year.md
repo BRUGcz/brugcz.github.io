@@ -17,12 +17,12 @@ Bring your friends and foes and let's have a firendly discussion together.
 **Time:** 18:00 – 19:30 <br>
 **Location:** Red Hat Lab at FI MUNI at Botanická 68A, Brno, Czech Republic (5th floor, room S505) <br>
 **Building plan:** [MUNI FI map](https://www.muni.cz/mapa/fakulta-informatiky?q=S505) <br>
-**Facebook:** TBA <br>
-**LinkedIn:** TBA <br>
+**Facebook:** [BRUG meetup](https://www.facebook.com/events/1169097615294768) <br>
+**LinkedIn:** [BRUG meetup](https://www.linkedin.com/events/7405665735496142848/) <br>
 
 ### Topics:
 - Introduction
-- Janos Vasik (@RoamingNoMaD): What's new in Ruby 4.0?
+- János Vasík (@RoamingNoMaD): What's new in Ruby 4.0?
 - Free discussion
 
 **Entry:** Free
