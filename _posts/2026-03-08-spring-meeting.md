@@ -15,10 +15,7 @@ Stop by and join us.
 
 **Date:** Thursday, March 19, 2026 <br>
 **Time:** 18:00 – 19:30 <br>
-**Location:** Red Hat Lab at FI MUNI at Botanická 68A, Brno, Czech Republic (5th floor, room S505) <br>
-**Building plan:** [MUNI FI map](https://www.muni.cz/mapa/fakulta-informatiky?q=S505) <br>
-**Facebook:** TBA <br>
-**LinkedIn:** TBA <br>
+**Location:** Industra, Lazaretní 925/9, 615 00 Brno-Židenice <br>
 
 ### Topics:
 - Free discussion
