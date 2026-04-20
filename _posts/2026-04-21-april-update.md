@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BRUG.cz March Meetup - April follow-up"
+title: "BRUG.cz April Meetup - April follow-up"
 date: 2026-04-20
 author: BRUG.cz Team
 categories: event
