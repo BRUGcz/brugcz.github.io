@@ -6,7 +6,7 @@ author: BRUG.cz Team
 categories: event
 ---
 
-Hello Rubyists! [EuRuKo](https://2026.euruko.org) is less than a month away, and if you already have your ticket, you probably noticed that there will be a meetup before the big event. Thanks to the conference organizers, we are able to hold this (free) community meetup at the same venue. If you have your ticket, you will also have the opportunity to register and pick up your badge early, allowing you to skip the queues the next morning.
+Hello Rubyists! [EuRuKo](https://2026.euruko.org) is less than a month away, and if you already have your ticket, you probably noticed that there will be a meetup before the big event. Thanks to the conference organizers, we are able to hold this (free) community meetup at the same venue. If you have your ticket, at the meetup you will also have the opportunity to register and pick up your badge early, allowing you to skip the queues the next morning.
 
 <i class="fa-solid fa-calendar" aria-hidden="true"></i> **Date:** Wednesday, September 16, 2026 <br /> <i class="fa-solid fa-clock" aria-hidden="true"></i> **Time:** 18:00 – 20:00 <br /> <i class="fa-solid fa-location-dot" aria-hidden="true"></i> **Location:** [Hotel Passage](https://www.hotelpassage.eu), Lidická 23, Brno, Czech Republic <br />
 
