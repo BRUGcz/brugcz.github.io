@@ -23,6 +23,6 @@ The goal is not to replace all JavaScript, but to make Ruby a practical frontend
 
 Software development is undergoing a fundamental shift. The consensus is emerging that the engineer of the future will be a manager of agents. Code can be written by machines, but decisions and accountability still require humans. And the thing that makes a human engineer valuable is their technical intuition. Pattern recognition built from years of making things work, and more often, watching them fail. Assign all the coding tasks to AI agents and it's not obvious where the next generation of senior engineers comes from. And that’s exactly the question we’re here to explore.
 
-#### Josef Šimánek - [gem.coop](https://gem.coop): Building a Community-Owned Home for RubyGems [[pdf]](/assets/pdfs/gem-coop.pdf)
+#### Josef Šimánek - [gem.coop](https://gem.coop): Building a Community-Owned Home for RubyGems [[pdf]](/assets/archive/2026-08/gem-coop.pdf)
 
 Why does [gem.coop](https://gem.coop) exist, how is it structured, and where is it going? This short talk gives a short overview of the motivation behind the project, its cooperative model, the current state of the service, and our plans for building sustainable, community-owned Ruby infrastructure.
